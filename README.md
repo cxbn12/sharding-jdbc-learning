@@ -16,4 +16,8 @@ sharding-jdbc 源码学习
 
 - 20180809 ----------------------- [sharding-jdbc数据源初始化][1]
 
+- 20180814 ----------------------- [sharding-jdbc分库分表处理流程（一）][2]
+
+
 [1]:./resources/chapter-1.md
+[2]:./resources/chapter-2.md
