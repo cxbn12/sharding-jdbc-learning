@@ -18,6 +18,8 @@ sharding-jdbc 源码学习
 
 - 20180814 ----------------------- [sharding-jdbc分库分表处理流程（一）][2]
 
+- 20180816 ----------------------- [sharding-jdbc分库分表处理流程（二）][3]
 
 [1]:./resources/chapter-1.md
 [2]:./resources/chapter-2.md
+[3]:./resources/chapter-3.md
