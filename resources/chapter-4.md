@@ -123,7 +123,7 @@ List<ShardingValue> tableShardingValues = getShardingValues(tableShardingColumns
 
 		result.add("t_user_info");
 		result.add("t_user");
-        result.add("t_user_info_other");
+        	result.add("t_user_info_other");
 
 		Collection<String> tableNames = result;
 		for (Iterator<String> iterator = tableNames.iterator(); iterator.hasNext(); ) {
