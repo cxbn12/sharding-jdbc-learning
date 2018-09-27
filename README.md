@@ -20,6 +20,12 @@ sharding-jdbc 源码学习
 
 - 20180816 ----------------------- [sharding-jdbc分库分表处理流程（二）][3]
 
+- 20180925 ----------------------- [sharding-jdbc使用问题-绑定表bug][4]
+
+- 20180927 ----------------------- [sharding-jdbc分库分表处理流程（三）][5]
+
 [1]:./resources/chapter-1.md
 [2]:./resources/chapter-2.md
 [3]:./resources/chapter-3.md
+[4]:./resources/chapter-4.md
+[5]:./resources/chapter-5.md
